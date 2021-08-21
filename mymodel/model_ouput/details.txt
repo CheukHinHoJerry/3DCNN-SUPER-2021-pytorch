@@ -1,0 +1,82 @@
+721 : first try on pytorch
+
+722 : limit the range of output of the network
+
+723 (saved_model_4) : add recursion
+
+saved_model_5:
+cannot be load again
+
+saved_model_6:
+use model_v3 to test
+
+train_loss:  181.41690063476562
+test_loss:  209.07080078125
+training psnr:  25.54896208522219
+training ssim:  0.8002873333650178
+testing psnr:  24.93201297251762
+testing ssim:  0.8135624556311045
+
+saved_model_no2dloss1:
+use model_no_2dloss1.py to test
+
+train_loss:  153.1615753173828
+test_loss:  167.34194946289062
+training psnr:  26.284321181698967
+training ssim:  0.8174699504622892
+testing psnr:  25.898152815882895
+testing ssim:  0.8374506210895529
+
+
+-------------------------------------------------------------------------
+xsede_saved_model_add_across_net1.pth
+
+train_loss:  128.01681518554688
+test_loss:  153.02774047851562
+training psnr:  27.063200564221383
+training ssim:  0.8430748049162314
+testing psnr:  26.287252896314953
+testing ssim:  0.8612028725689349
+
+----------------------------------------------------------------------
+saved_change2dresoutside1.pth
+
+train_loss:  111.2892074584961
+test_loss:  150.9390411376953
+training psnr:  27.674814498956795
+training ssim:  0.8836756941741036
+testing psnr:  26.346485337975878
+testing ssim:  0.8633251888883591
+
+--------------------------------------------
+xsede_saved_veryDeep1.pth
+
+train_loss:  104.33096313476562
+test_loss:  145.9921112060547
+training psnr:  27.951867046803844
+training ssim:  0.889179740511234
+testing psnr:  26.4908058186171
+testing ssim:  0.8678536084345735
+
+
+
+-------------------------------
+xsede_saved_veryDeep2.pth
+
+train_loss:  86.82141876220703
+test_loss:  127.56261444091797
+training psnr:  28.756368924797005
+training ssim:  0.9326785912900946
+testing psnr:  27.081994275366533
+testing ssim:  0.9183692563322181
+
+
+---------------------------
+xsede_saved_veryDeep3.pth
+
+train_loss:  85.89156341552734
+test_loss:  112.55360412597656
+training psnr:  28.79625774142619
+training ssim:  0.9339516103681103
+testing psnr:  27.61881743606833
+testing ssim:  0.9272199001028386
